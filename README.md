@@ -3,7 +3,7 @@ An aim trainer game in C with the SFML library
 
 ## How to use it
 
-Now you can play the best game of all time !
+
 <h1 align="center">Aim Ascii</h1>
 <h2 align="center">An aim trainer game in C with the SFML library  </h2>
 <p align="center">
@@ -24,16 +24,10 @@ In the root file run the command
 gcc -o app *.c -lcsfml-graphics -lcsfml-system -lcsfml-window -lcsfml-audio -I./include
 ./app
 ```
+## Now you can play the best game of all time !
 <p align="center">
 	<img src="https://github.com/0FA-git/images/blob/main/iq.png" />
 </p>
-
-## Comment utiliser man_ascii (pas très compliqué)
-```bash
-tmux ./man_ascii.sh
-```
-
-#
 
 <p align="center"> 
     <b>Informations</b><br>
