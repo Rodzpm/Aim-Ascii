@@ -26,7 +26,12 @@ gcc -o app *.c -lcsfml-graphics -lcsfml-system -lcsfml-window -lcsfml-audio -I./
 ```
 ## Now you can play the best game of all time !
 <p align="center">
-	<img src="https://github.com/0FA-git/images/blob/main/iq.png" />
+	<img src="https://github.com/0FA-git/images/blob/main/menu.png" />
+	<p>game menu</p>
+</p>
+<p align="center">
+	<img src="https://github.com/0FA-git/images/blob/main/game.png" />
+	<p>game</p>
 </p>
 
 <p align="center"> 
