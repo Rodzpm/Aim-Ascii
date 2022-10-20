@@ -14,20 +14,16 @@ Now you can play the best game of all time !
 	<img src="https://media.giphy.com/media/C8A8UNursWU8NUCoDk/giphy.gif" />
 </p>
 
-#
+# Ubuntu
+```bash
+sudo apt-get install libcsfml-dev libcsfml-doc 
+```
 
-<p align="center">
-	Ubuntu
-	```bash
-	sudo apt-get install libcsfml-dev libcsfml-doc 
-	```
-
-	In the root file run the command
-	```bash
-	gcc -o app *.c -lcsfml-graphics -lcsfml-system -lcsfml-window -lcsfml-audio -I./include
-	./app
-	```
-</p>
+In the root file run the command
+```bash
+gcc -o app *.c -lcsfml-graphics -lcsfml-system -lcsfml-window -lcsfml-audio -I./include
+./app
+```
 <p align="center">
 	<img src="https://github.com/0FA-git/images/blob/main/iq.png" />
 </p>
