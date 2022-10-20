@@ -16,6 +16,7 @@ gcc -o app *.c -lcsfml-graphics -lcsfml-system -lcsfml-window -lcsfml-audio -I./
 
 Now you can play the best game of all time !
 <h1 align="center">Aim Ascii</h1>
+<h2 align="center">An aim trainer game in C with the SFML library  </h2>
 <p align="center">
 	<b>You can follow me here</b><br>
 	<a href="https://github.com/0FA-git">Github</a> |
