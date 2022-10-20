@@ -1,9 +1,3 @@
-# Aim-Ascii
-An aim trainer game in C with the SFML library 
-
-## How to use it
-
-
 <h1 align="center">Aim Ascii</h1>
 <h2 align="center">An aim trainer game in C with the SFML library  </h2>
 <p align="center">
