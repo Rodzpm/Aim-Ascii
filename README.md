@@ -27,9 +27,6 @@ Now you can play the best game of all time !
 #
 
 <p align="center">
-  Aim Ascii 
-</p>
-<p align="center">
 	An aim trainer game in C with the SFML library  
 </p>
 <p align="center">
